@@ -46,7 +46,7 @@ Check via: **Settings > Role Permissions Manager**, filter by role = `Employee`.
 
 ```bash
 cd frappe-bench
-bench get-app https://github.com/508dev/engineer_onboarding
+bench get-app https://github.com/508-dev/engineer_onboarding
 bench --site <your-site> install-app engineer_onboarding
 bench build --app engineer_onboarding
 ```
